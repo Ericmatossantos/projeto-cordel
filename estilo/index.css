@@ -86,7 +86,7 @@ section#img1{
 }
 
 section.s2{
-    background-color: rgb(51, 51, 51);
+    background-color: rgba(51, 51, 51, 0);
     color: white;
     box-shadow: inset 6px 6px 13px 0px rgb(0 0 0/ 47%);
     background-size: cover;
